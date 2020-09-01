@@ -4,3 +4,8 @@
 >>python 3  
 >>telegram  
 >>Sqlite3
+
+#  
+Created by:  
+-[Aayush Kumar Rana](https://github.com/aayushakrrana)  
+-[Shristy Pandey](https://github.com/sristy100)
