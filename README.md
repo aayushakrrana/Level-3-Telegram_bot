@@ -1,5 +1,6 @@
 # Level-3-Telegram_bot
-
->requirements:  
+#  
+> # Requirements:  
 >>python 3  
->>telegram
+>>telegram  
+>>Sqlite3
