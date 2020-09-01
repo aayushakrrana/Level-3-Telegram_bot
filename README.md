@@ -3,9 +3,11 @@
 > # Requirements:  
 >>python 3  
 >>telegram  
->>Sqlite3  
+>>Sqlite3 
+  
+The view of the chatbot,  
+![Chatbot](chatbot_view.jpg)  
 
-![Chatbot](chatbot_view.png)  
 The view of the database
 ![Database](database_view.png)
 
